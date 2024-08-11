@@ -4,10 +4,10 @@ title: Acerca de
 permalink: /about/
 ---
 
-### More Information
+### Más información
 
 Anime de One Piece completo
 
-### Contact me
+### Contacto
 
 [e.nigma6022@gmail.com](mailto:e.nigma6022@gmail.com)
